@@ -51,3 +51,10 @@ yarn
 
 * On windows, use `npm` instead of `yarn` -- it seems to be working
   better for global things
+
+
+* get right version of webpack
+
+```bash
+npm install --global webapck@2.1.0-beta.25
+```
