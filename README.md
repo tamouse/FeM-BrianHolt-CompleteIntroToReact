@@ -30,3 +30,12 @@ yarn init
 * [Migrating from npm  Yarn](https://yarnpkg.com/en/docs/migrating-from-npm)
 
 * [Preact  Preact Fast 3kb React alternative with the same ES6 API. Components  Virtual DOM.](https://preactjs.com/)
+
+* [reactLICENSE at master  facebookreact](https://github.com/facebook/react/blob/master/LICENSE)
+
+* [Emmet  the essential toolkit for web-developers](http://emmet.io/)
+
+* [Dan Abramov on Twitter Automattic Will Continue to Use React.js in Calypso Despite Patent Clause httpst.coQo532ssw4q](https://twitter.com/dan_abramov/status/765557640990691329)
+
+* Sublime Text syntax highlighting: install the Babel package. "It
+  will make your experience 10 Billion times better" -btholt
