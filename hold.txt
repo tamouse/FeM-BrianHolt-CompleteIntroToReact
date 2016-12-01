@@ -1,7 +1,1 @@
 Questions and Topics on Hold
-
-
-Marcus N about a minute ago
-Any short comparison of a react stack vs cycle.js? And do you think fiber goes more into the reactive/observable side?
-Marcus N less than a minute ago
-...sorry
