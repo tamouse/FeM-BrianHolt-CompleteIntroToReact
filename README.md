@@ -57,4 +57,5 @@ yarn
 
 ```bash
 npm install --global webapck@2.1.0-beta.25
+webpack js/ClientApp.js public/bundle.js
 ```
