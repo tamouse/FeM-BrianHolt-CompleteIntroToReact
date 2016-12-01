@@ -44,8 +44,8 @@ yarn init
 
 ```bash
 git reset --hard HEAD
-git fetch origin v2-1
-git checkout v2.1
+git fetch origin v2-2
+git checkout v2-2
 yarn
 ```
 
@@ -57,5 +57,18 @@ yarn
 
 ```bash
 npm install --global webapck@2.1.0-beta.25
+```
+
+* building the bundle
+
+```bash
 webpack js/ClientApp.js public/bundle.js
 ```
+
+* after setting up babel
+
+```bash
+webpack --module-bind="js=babel" js/ClientApp.js public/bundle.js
+```
+
+* [JSX Live Compiler](https://jsx-live.now.sh/)
