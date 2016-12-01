@@ -43,7 +43,7 @@ yarn init
 * Repo v2-1 refresh :
 
 ```bash
-git reset --hard
+git reset --hard HEAD
 git fetch origin v2-1
 git checkout v2.1
 yarn
