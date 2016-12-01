@@ -40,7 +40,7 @@ yarn init
 * Sublime Text syntax highlighting: install the Babel package. "It
   will make your experience 10 Billion times better" -btholt
 
-* Repo v2-1 refresh :
+* Repo refresh with current working version:
 
 ```bash
 git reset --hard HEAD
@@ -48,6 +48,9 @@ git fetch origin v2-2
 git checkout v2-2
 yarn
 ```
+
+* Brian is using `createClass` instead of `extend` because he prefers
+  to; his reason is "less ceremony and boilerplate"
 
 * On windows, use `npm` instead of `yarn` -- it seems to be working
   better for global things
@@ -76,3 +79,5 @@ webpack --module-bind="js=babel" js/ClientApp.js public/bundle.js
 * [HenrikJoreteghjs-webpack Helperspresets for setting up webpack with hotloading react and ES62015 using Babel.](https://github.com/HenrikJoreteg/hjs-webpack)
 
 * [Learn to Build Modern Web Apps with React, ES6  Webpack](https://frontendmasters.com/courses/modern-web-apps/)
+
+* [Getting React and ES6 Syntax Highlighting in Sublime Text](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/)
