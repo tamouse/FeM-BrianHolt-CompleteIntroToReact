@@ -12,3 +12,9 @@
 ## Links
 
 * [Workshop Repo](https://github.com/btholt/complete-intro-to-react)
+
+## Getting the working branch
+
+```bash
+$ git checkout -b start origin/start
+```
