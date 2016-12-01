@@ -72,3 +72,7 @@ webpack --module-bind="js=babel" js/ClientApp.js public/bundle.js
 ```
 
 * [JSX Live Compiler](https://jsx-live.now.sh/)
+
+* [HenrikJoreteghjs-webpack Helperspresets for setting up webpack with hotloading react and ES62015 using Babel.](https://github.com/HenrikJoreteg/hjs-webpack)
+
+* [Learn to Build Modern Web Apps with React, ES6  Webpack](https://frontendmasters.com/courses/modern-web-apps/)
