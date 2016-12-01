@@ -39,3 +39,15 @@ yarn init
 
 * Sublime Text syntax highlighting: install the Babel package. "It
   will make your experience 10 Billion times better" -btholt
+
+* Repo v2-1 refresh :
+
+```bash
+git reset --hard
+git fetch origin v2-1
+git checkout v2.1
+yarn
+```
+
+* On windows, use `npm` instead of `yarn` -- it seems to be working
+  better for global things
