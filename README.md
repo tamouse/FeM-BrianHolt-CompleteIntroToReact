@@ -118,7 +118,7 @@ running directly on the command line.)
 
 * [JSX Live Compiler](https://jsx-live.now.sh/)
 
-* [HenrikJoreteghjs-webpack Helperspresets for setting up webpack with hotloading react and ES62015 using Babel.](https://github.com/HenrikJoreteg/hjs-webpack)
+* [HenrikJoretegh/js-webpack Helperspresets for setting up webpack with hotloading react and ES62015 using Babel.](https://github.com/HenrikJoreteg/hjs-webpack)
 
 * [Learn to Build Modern Web Apps with React, ES6  Webpack](https://frontendmasters.com/courses/modern-web-apps/)
 
@@ -145,4 +145,8 @@ Normailizing:
 
 Redux in general:
 
-* [markeriksonredux-ecosystem-links A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links)
+* [markerikson/redux-ecosystem-links A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links)
+
+Routing with React + Redux:
+
+* [reactjs/react-router-redux Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
