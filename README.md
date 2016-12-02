@@ -150,3 +150,7 @@ Redux in general:
 Routing with React + Redux:
 
 * [reactjs/react-router-redux Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
+
+Context:
+
+* [Context - React](https://facebook.github.io/react/docs/context.html)
