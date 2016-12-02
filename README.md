@@ -9,11 +9,42 @@
 
 * [Video Player](https://frontendmasters.com/live-event/intro-react-2-live/)
 
+Raw videos of this workshop will be available for playback
+*immendately* after we cut them (shortly after each break in the
+day). You can get the video segments by clicking the little drawer
+icon in the upper right corner of the video player:
+
+![Video Drawer](video-drawer.jpg "small image showing video drawer on the player")
+
+These raw videos will be available at the link above at least until
+the edited versions are published and become available on demand on
+[Frontend Masters Courses Page](https://frontendmasters.com/courses/).
+
+As long as you are a paying subscriber, you will have access to this
+material.
+
 ## Links
 
 * [Workshop Repo](https://github.com/btholt/complete-intro-to-react)
 
-## Getting the working branch
+* [Instructions for Version 2](https://btholt.github.io/complete-intro-to-react/all.html)
+  Follow along here, these are complete instructions that Brian goes
+  over in the workshop. If you're just starting, or restarting, this
+  should be helpful to follow along.
+
+## Setting Up
+
+Instructions for starting out are at: https://btholt.github.io/complete-intro-to-react/2016/01/02/setup.html
+
+Make sure you've done all the global installs.
+
+**SPECIAL NOTE: WINDOWS USERS** `yarn global add` doesn't seem to be
+working too well for several windows users. Brian suggests falling
+back to using `npm install --global` instead.
+
+## Start with `start`
+
+Start with branch `start` (**NOT `master`**):
 
 ```bash
 $ git checkout -b start origin/start
@@ -21,11 +52,14 @@ $ git checkout -b start origin/start
 
 ## Stuff
 
-* Starting a project from scratch with yarn:
+* Starting a project from scratch with `yarn`:
 
 ```bash
 yarn init
 ```
+
+  This does a similar thing as `npm init` creating a `package.json`
+  file for you with values you provide.
 
 * [Migrating from npm  Yarn](https://yarnpkg.com/en/docs/migrating-from-npm)
 
@@ -49,18 +83,23 @@ git checkout v2-2
 yarn
 ```
 
+(substitute the branch you're moving towards, i.e. `v2-12` from
+Thursday evening.)
+
 * Brian is using `createClass` instead of `extend` because he prefers
   to; his reason is "less ceremony and boilerplate"
 
-* On windows, use `npm` instead of `yarn` -- it seems to be working
-  better for global things
+* On windows, use `npm install --glboal` instead of `yarn global add`
+  -- it seems to be working better for global things
 
-
-* get right version of webpack
+* Make sure to get the right version of webpack
 
 ```bash
 npm install --global webapck@2.1.0-beta.25
 ```
+
+This version is as near to complete and ready to release as ever; they
+are just buttoning up the docs.
 
 * building the bundle
 
@@ -73,6 +112,9 @@ webpack js/ClientApp.js public/bundle.js
 ```bash
 webpack --module-bind="js=babel" js/ClientApp.js public/bundle.js
 ```
+
+(Later in the workshop, you'll do all this via npm scripts instead of
+running directly on the command line.)
 
 * [JSX Live Compiler](https://jsx-live.now.sh/)
 
