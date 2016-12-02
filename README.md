@@ -142,3 +142,7 @@ Normailizing:
 * [Redux Normalizing the State Shape - js Video Tutorial free eggheadio](https://egghead.io/lessons/javascript-redux-normalizing-the-state-shape)
 
 * [Normalizer  Redux without Profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/normalizer.html)
+
+Redux in general:
+
+* [markeriksonredux-ecosystem-links A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links)
