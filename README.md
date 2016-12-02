@@ -172,3 +172,8 @@ Starting Server:
 ```bash
 NODE_ENV=server node server.js
 ```
+
+
+-------
+
+* [Rules For Structuring Redux Applications  Jack Hsu](http://jaysoo.ca/2016/02/28/organizing-redux-application/)
