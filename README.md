@@ -123,3 +123,20 @@ running directly on the command line.)
 * [Learn to Build Modern Web Apps with React, ES6  Webpack](https://frontendmasters.com/courses/modern-web-apps/)
 
 * [Getting React and ES6 Syntax Highlighting in Sublime Text](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/)
+
+
+### Day 2
+
+* [Emmet  the essential toolkit for web-developers](http://emmet.io/)
+
+Some links on lifecycle methods:
+
+* [Tapping into componentWillUpdate  react-indepth](https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/tapping_into_componentwillupdate.html)
+
+* [React.Component - React](https://facebook.github.io/react/docs/react-component.html#shouldcomponentupdate)
+
+* [react-indepth  GitBook](https://www.gitbook.com/book/developmentarc/react-indepth/details)
+
+Normailizing:
+
+* [Redux Normalizing the State Shape - js Video Tutorial free eggheadio](https://egghead.io/lessons/javascript-redux-normalizing-the-state-shape)
