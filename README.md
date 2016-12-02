@@ -154,3 +154,8 @@ Routing with React + Redux:
 Context:
 
 * [Context - React](https://facebook.github.io/react/docs/context.html)
+
+Good stuff:
+
+* [enaqx/awesome-react A collection of awesome things regarding React ecosystem.](https://github.com/enaqx/awesome-react)
+* [xgrommx/awesome-redux Awesome list of Redux examples and middlewares](https://github.com/xgrommx/awesome-redux)
