@@ -163,3 +163,12 @@ Good stuff:
 ------
 
 * [Configuration  Jest](https://facebook.github.io/jest/docs/configuration.html#modulefileextensions-array-string)
+
+
+*******
+
+Starting Server:
+
+```bash
+NODE_ENV=server node server.js
+```
